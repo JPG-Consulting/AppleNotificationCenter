@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("AppleNotificationCenterService")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Apple Notification Center Service")]
+[assembly: AssemblyDescription("Library for Apple Notification Center Service (ANCS)")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("AppleNotificationCenterService")]
-[assembly: AssemblyCopyright("Copyright ©  2016")]
+[assembly: AssemblyCompany("JPG-Consulting")]
+[assembly: AssemblyProduct("Apple Notification Center Service")]
+[assembly: AssemblyCopyright("Copyright ©  2016 Juan Pedro Gonzalez Gutierrez")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

@@ -10,8 +10,7 @@ namespace AppleNotificationCenter
 {
     [ClassInterface(ClassInterfaceType.None)]
     [ComSourceInterfaces(typeof(INotificationActivationCallback))]
-    //[Guid("23A5B06E-20BB-4E7E-A0AC-6982ED6A6041"), ComVisible(true)]
-    [Guid("D5AAEE79-B7C2-4857-967C-F94A6C0A280C"), ComVisible(true)]
+    [Guid("75dc85a4-4aba-4568-aeaf-0c5e8ebd0e53"), ComVisible(true)]
     public class NotificationActivator : INotificationActivationCallback
     {
         public void Activate(string appUserModelId, string invokedArgs, NOTIFICATION_USER_INPUT_DATA[] data, uint dataCount)
